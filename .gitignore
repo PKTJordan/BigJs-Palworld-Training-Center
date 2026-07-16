@@ -1,0 +1,14 @@
+# Local-only Claude instructions — never committed
+bigjpalworldclaude.md
+
+# Editor + OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Anything with 'secret' or 'private' in the name — belt-and-suspenders
+*secret*
+*private*
